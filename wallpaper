@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Set the wallpaper. Simple as that.
+
+feh --bg-scale /home/speedie/Pictures/.wallpaper.png
