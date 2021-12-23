@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Win
+
+doas virsh start Windows10
+alacritty -e /usr/bin/lg
